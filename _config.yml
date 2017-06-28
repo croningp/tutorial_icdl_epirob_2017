@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Developmental robotics in a chemistry lab
 description: Curious robotic assistants as tools for the exploration of complex physicochemical systems in the real world
+show_downloads: false
