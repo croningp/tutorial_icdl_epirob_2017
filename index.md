@@ -8,12 +8,16 @@ Our robots are able to perform physical or chemical experiments with the aim to 
 
 Our aim is to highlight the potential benefits of interdisciplinary work at the interface of physics, chemistry, robotics and AI.
 
-### Tutorial schedule
+### Schedule
 
 Shedule + we are looking for a invited speaker
 
-### Selected papers
+### Selected publications
 
 - Dropbot
 - Robots vs Humans
 - submitted flowbot and droplet analysis/surfbot
+
+### Contact
+
+Laurie, Jonathan, Lee
