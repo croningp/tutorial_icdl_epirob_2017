@@ -8,6 +8,8 @@ Our robots are able to perform physical or chemical experiments with the aim to 
 
 Our aim is to highlight the potential benefits of interdisciplinary work at the interface of physics, chemistry, robotics and AI.
 
+- Link to Download the proposal we sent
+
 ### Schedule
 
 Shedule + we are looking for a invited speaker
