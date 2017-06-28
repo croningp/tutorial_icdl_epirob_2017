@@ -1,4 +1,4 @@
-## Welcome to our tutorial on chemical robots
+## Welcome to our tutorial on smart chemical robots
 
 We believe principles from developmental robotics can help when designing curious robotic assistants for lab environments. In this tutorial, we will introduce and showcase examples from robotic assistants at work in our chemistry lab and how they help us characterize our chemical systems more effectively. 
 
