@@ -22,9 +22,26 @@ We are looking for a senior researcher willing to give a 20 minutes perspective 
 
 ### Selected publications
 
-- Dropbot
-- Robots vs Humans
-- submitted flowbot and droplet analysis/surfbot
+- Gutierrez, Juan Manuel Parrilla, et al. "Evolution of oil droplets in a chemorobotic platform." Nature communications (2014).
+
+This is the first work published by the group in that area. It demonstrates how we can artificially evolve oil-in-water droplets to maximize different behaviors type, such as speed or division.
+
+Link to journal: https://www.nature.com/articles/ncomms6571
+
+- Vasilios Duros, Jonathan Grizou, et al. "Human vs Robots in the Discovery and Crystallization of Gigantic Polyoxometalates". Angewandte Chemie (2017).
+
+In this work, we use active learning classification methods to define the next experiments to perform to characterize faster a crystalization 'zone' of a new polyoxometalate cluster.
+
+Code and data: https://github.com/croningp/crystal_active_learning
+Link to journal: http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract
+
+- "Artificial Intelligence Exploration of Unstable Protocells Leads to Predictable Properties and Discovery of Collective Behaviour", Submitted to PNAS
+
+This paper presents our efforts to understand the underlying physical and chemical processes at work in our droplet system. We also explore the impact of the chemical environment of the droplets on their behaviors.
+
+- "Artificial Evolution of Droplet Protocells in a Chemical Robot with Configurable Environments Leads to Phenotypic Plasticity", submitted to Nature Communication
+
+This paper explores the impact of the physical environment on the droplets behaviors. To this end, we encapsulated the functionalities of our chemical robots into a 3D printed devices, allowing us to modify the shape of the arena.
 
 ### Jobs opportunities
 
