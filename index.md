@@ -30,7 +30,7 @@ Link to journal: [https://www.nature.com/articles/ncomms6571](https://www.nature
 
 - **Vasilios Duros, Jonathan Grizou, et al. "Human vs Robots in the Discovery and Crystallization of Gigantic Polyoxometalates". Angewandte Chemie (2017)**
 
-In this work, we use active learning classification methods to define the next experiments to perform to characterize faster a crystalization 'zone' of a new polyoxometalate cluster.
+In this work, we use active learning classification methods to define the next experiments to perform to characterize faster a crystalization 'zone' of a new polyoxometalate cluster. Importantly, we compare our approach with human experimenters showing variability between each experimenters. Overall active learning was beneficial for exploring more efficiently our crystal system.
 
 Code and data: [https://github.com/croningp/crystal_active_learning](https://github.com/croningp/crystal_active_learning)
 
