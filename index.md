@@ -26,14 +26,14 @@ We are looking for a senior researcher willing to give a 20 minutes perspective 
 
 This is the first work published by the group in that area. It demonstrates how we can artificially evolve oil-in-water droplets to maximize different behaviors type, such as speed or division.
 
-Link to journal: https://www.nature.com/articles/ncomms6571
+Link to journal: [https://www.nature.com/articles/ncomms6571](https://www.nature.com/articles/ncomms6571)
 
 - **Vasilios Duros, Jonathan Grizou, et al. "Human vs Robots in the Discovery and Crystallization of Gigantic Polyoxometalates". Angewandte Chemie (2017)**
 
 In this work, we use active learning classification methods to define the next experiments to perform to characterize faster a crystalization 'zone' of a new polyoxometalate cluster.
 
-Code and data: https://github.com/croningp/crystal_active_learning
-Link to journal: http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract
+Code and data: [https://github.com/croningp/crystal_active_learning](https://github.com/croningp/crystal_active_learning)
+Link to journal: [http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract](http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract)
 
 - **"Artificial Intelligence Exploration of Unstable Protocells Leads to Predictable Properties and Discovery of Collective Behaviour", Submitted to PNAS**
 
