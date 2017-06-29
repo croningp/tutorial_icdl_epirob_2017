@@ -33,6 +33,7 @@ Link to journal: [https://www.nature.com/articles/ncomms6571](https://www.nature
 In this work, we use active learning classification methods to define the next experiments to perform to characterize faster a crystalization 'zone' of a new polyoxometalate cluster.
 
 Code and data: [https://github.com/croningp/crystal_active_learning](https://github.com/croningp/crystal_active_learning)
+
 Link to journal: [http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract](http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract)
 
 - **"Artificial Intelligence Exploration of Unstable Protocells Leads to Predictable Properties and Discovery of Collective Behaviour", Submitted to PNAS**
