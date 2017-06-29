@@ -14,7 +14,11 @@ For more details and background information, please read the [tutorial proposal]
 
 ### Schedule
 
-Shedule + we are looking for a invited speaker
+Provisional schedule is as follow:
+
+<img src="https://github.com/croningp/tutorial_icdl_epirob_2017/blob/master/schedule.png" alt="schedule">
+
+We are looking for a senior researcher willing to give a 20 minutes perspective talk on the subject and its articulation with the DevRob community. If you are interested or know someone that might be, please contact me at <a href= "jonathan.grizou@glasgow.ac.uk">jonathan.grizou@glasgow.ac.uk</a>.
 
 ### Selected publications
 
