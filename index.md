@@ -10,13 +10,13 @@ Our robots are able to perform physical or chemical experiments with the aim to 
 
 Our aim is to highlight the potential benefits of interdisciplinary work at the interface of physics, chemistry, robotics and AI.
 
-For more details and background information, please read the [tutorial proposal](https://github.com/croningp/tutorial_icdl_epirob_2017/blob/master/tutorial_proposal_final.pdf).
+For more details and background information, please read the [tutorial proposal](tutorial_proposal_final.pdf).
 
 ### Schedule
 
 Provisional schedule is as follow:
 
-<img src="https://github.com/croningp/tutorial_icdl_epirob_2017/blob/master/schedule.png" alt="schedule">
+<img src="schedule.png" alt="schedule">
 
 We are looking for a senior researcher willing to give a 20 minutes perspective talk on the subject and its articulation with the DevRob community. If you are interested or know someone that might be, please contact me at <a href= "jonathan.grizou@glasgow.ac.uk">jonathan.grizou@glasgow.ac.uk</a>.
 
