@@ -42,7 +42,7 @@ This paper presents our efforts to understand the underlying physical and chemic
 
 - **Laurie J. Points, et al. "Artificial Evolution of Droplet Protocells in a Chemical Robot with Configurable Environments Leads to Phenotypic Plasticity"**, Submitted to Nature Communication
 
-This paper explores the impact of the physical environment on the droplets behaviors. To this end, we encapsulated the functionalities of our chemical robots into a 3D printed devices, allowing us to modify the shape of the arena.
+This paper explores the impact of the physical environment on the droplets behaviors. To this end, we encapsulated the functionalities of our chemical robots into a 3D printed device, allowing us to modify the shape of the arena.
 
 ### Jobs opportunities
 
