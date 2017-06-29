@@ -32,4 +32,4 @@ The tutorial is organized by:
 
 - [Jonathan Grizou](http://jgrizou.com/), team leader of the Chemobot team (4 PostDocs, 3 PhD students, 1 Intern), background in Develepmental Robotics.
 - Laurie Points, PhD student in the Chemobot team, background in Chemistry.
-- [Lee Cronin](http://www.chem.gla.ac.uk/cronin/), Professor and head of the [Cronin Group](http://www.chem.gla.ac.uk/cronin/) (55 members), his group is pioneering research at the intersection of Chemistry, Robotics and Artificial Intelligence.
+- [Lee Cronin](http://www.chem.gla.ac.uk/cronin/members/Lee/), Professor and head of the [Cronin Group](http://www.chem.gla.ac.uk/cronin/) (55 members), his group is pioneering research at the intersection of Chemistry, Robotics and Artificial Intelligence.
