@@ -10,7 +10,7 @@ Our robots are able to perform physical or chemical experiments with the aim to 
 
 Our aim is to highlight the potential benefits of interdisciplinary work at the interface of physics, chemistry, robotics and AI.
 
-For more details and background information, here is the [tutorial proposal](https://github.com/croningp/tutorial_icdl_epirob_2017/blob/master/tutorial_proposal_final.pdf).
+For more details and background information, please read the [tutorial proposal](https://github.com/croningp/tutorial_icdl_epirob_2017/blob/master/tutorial_proposal_final.pdf).
 
 ### Schedule
 
