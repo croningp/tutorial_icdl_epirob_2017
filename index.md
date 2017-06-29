@@ -22,7 +22,7 @@ We are looking for a senior researcher willing to give a 20 minutes perspective 
 
 ### Selected publications
 
-- Gutierrez, Juan Manuel Parrilla, et al. "Evolution of oil droplets in a chemorobotic platform." Nature communications (2014).
+#### Gutierrez, Juan Manuel Parrilla, et al. "Evolution of oil droplets in a chemorobotic platform." Nature communications (2014).
 
 This is the first work published by the group in that area. It demonstrates how we can artificially evolve oil-in-water droplets to maximize different behaviors type, such as speed or division.
 
