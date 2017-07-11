@@ -1,6 +1,6 @@
 ## Welcome to our tutorial on smart chemical robots
 
-18th September 2017, 14h-17h30, https://goo.gl/maps/jyeuYzuDRXC2
+**18th September 2017, 14h-17h30, [https://goo.gl/maps/jyeuYzuDRXC2](https://goo.gl/maps/jyeuYzuDRXC2)** 
 
 We believe principles from developmental robotics can be of benefit when designing curious robotic assistants for lab environments. In this tutorial, we will introduce and showcase examples from robotic assistants in our chemistry lab and how they help us characterize our chemical systems more effectively. In the video below, we showcase our oil-in-water droplet system that can display a fascinating range of behavior.
 
@@ -16,7 +16,7 @@ For more details and background information, please read the [tutorial proposal]
 
 ### Schedule
 
-The tutorial will take place the 18th September 2017 from 14h to 17h30 during the http://www.icdl-epirob.org/ conference. The conference will be held at the Congress Center of the Instituto Superior Tecnico (maps: https://goo.gl/maps/jyeuYzuDRXC2), in Lisbon, Portugal.  
+The tutorial will take place the 18th September 2017 from 14h to 17h30 during the http://www.icdl-epirob.org/ conference. The conference will be held at the Congress Center of the Instituto Superior Tecnico (maps: [https://goo.gl/maps/jyeuYzuDRXC2](https://goo.gl/maps/jyeuYzuDRXC2)), in Lisbon, Portugal.  
 
 Provisional schedule is as follow:
 
