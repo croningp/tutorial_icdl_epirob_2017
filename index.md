@@ -16,7 +16,7 @@ For more details and background information, please read the [tutorial proposal]
 
 ### Schedule
 
-The tutorial will take place the 18th September 2017 from 14h to 17h30 during the http://www.icdl-epirob.org/ conference. The conference will be held at the Congress Center of the Instituto Superior Tecnico (maps: [https://goo.gl/maps/jyeuYzuDRXC2](https://goo.gl/maps/jyeuYzuDRXC2)), in Lisbon, Portugal.  
+The tutorial will take place the 18th September 2017 from 14h to 17h30 during the [http://www.icdl-epirob.org/](http://www.icdl-epirob.org/) conference. The conference will be held at the Congress Center of the Instituto Superior Tecnico (maps: [https://goo.gl/maps/jyeuYzuDRXC2](https://goo.gl/maps/jyeuYzuDRXC2)), in Lisbon, Portugal.  
 
 Provisional schedule is as follow:
 
