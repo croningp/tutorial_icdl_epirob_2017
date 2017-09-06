@@ -48,6 +48,10 @@ This paper explores the impact of the physical environment on the droplets behav
 
 This paper presents our efforts to understand the underlying physical and chemical processes at work in our droplet system. We also explore the impact of the chemical environment of the droplets on their behaviors.
 
+- **Jonathan Grizou, et al. "Curious robotic assistant unveils the surprising temperature sensibility of oil-in-water droplet motion"**, In preparation
+
+Inspired by recent trends in developmental sciences, we describe a curious robotic assistant able to explore an unknown system and unveil the range of states it can exhibit for the scientist to later analyze. The goal babbling enables to observe that temperature lead to abrupt and non-linear changes in the droplet motions, a phenomenon never reported before in the literature
+
 ### Job opportunities
 
 Job opportunities are available for prospective PhD students and PostDocs with a strong desire to work in this innovative and challenging research program. The group employs chemists, roboticists, statisticians and computer scientists specialized in machine learning. We encourage interested researchers to attend to the tutorial and contact us for more information.
