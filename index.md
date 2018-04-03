@@ -40,13 +40,17 @@ Code and data: [https://github.com/croningp/crystal_active_learning](https://git
 
 Link to journal: [http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract](http://onlinelibrary.wiley.com/doi/10.1002/anie.201705721/abstract)
 
-- **Juan Manuel Parrilla Gutierrez, et al. "Artificial Evolution of Droplet Protocells in a Chemical Robot with Configurable Environments Leads to Phenotypic Plasticity"**, Submitted to Nature Communication
+- **Juan Manuel Parrilla Gutierrez, et al. "Artificial Evolution of Droplet Protocells in a Chemical Robot with Configurable Environments Leads to Phenotypic Plasticity", Nature communications (2017)**
 
 This paper explores the impact of the physical environment on the droplets behaviors. To this end, we encapsulated the functionalities of our chemical robots into a 3D printed device, allowing us to modify the shape of the arena.
 
-- **Laurie J. Points, et al. "Artificial Intelligence Exploration of Unstable Protocells Leads to Predictable Properties and Discovery of Collective Behaviour"**, Submitted to PNAS
+Link to journal: [https://www.nature.com/articles/s41467-017-01161-8](https://www.nature.com/articles/s41467-017-01161-8)
+
+- **Laurie J. Points, et al. "Artificial Intelligence Exploration of Unstable Protocells Leads to Predictable Properties and Discovery of Collective Behaviour", PNAS (2018)**
 
 This paper presents our efforts to understand the underlying physical and chemical processes at work in our droplet system. We also explore the impact of the chemical environment of the droplets on their behaviors.
+
+Link to journal: [http://www.pnas.org/content/early/2018/01/09/1711089115](http://www.pnas.org/content/early/2018/01/09/1711089115)
 
 - **Jonathan Grizou, et al. "Curious robotic assistant unveils the surprising temperature sensibility of oil-in-water droplet motion"**, In preparation
 
