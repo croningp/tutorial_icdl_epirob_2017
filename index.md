@@ -22,6 +22,8 @@ Provisional schedule is as follow:
 
 <img src="schedule.png" alt="schedule">
 
+The slides are now available in the [slides release](https://github.com/croningp/tutorial_icdl_epirob_2017/releases/tag/slides)
+
 We are looking for a senior researcher willing to give a 20 minutes perspective talk on the subject and its articulation with the DevRob community. If you are interested or know someone that might be, please contact me at <a href= "jonathan.grizou@glasgow.ac.uk">jonathan.grizou@glasgow.ac.uk</a>.
 
 ### Selected publications
